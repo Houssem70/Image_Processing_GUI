@@ -22,8 +22,8 @@ The application is built using **Python** and key libraries such as **PyQt5** fo
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/Houssem70/Image_Processing_GUI.git
+    cd Image_Processing_GUI
     ```
 
 2. **Create and activate a virtual environment** (optional but recommended):
