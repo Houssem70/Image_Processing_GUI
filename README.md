@@ -64,6 +64,6 @@ These can be installed using the `requirements.txt` file.
 
 Here’s a screenshot of the application in action:
 
-![Image Processing Application](screenshot.png)
+![Image Processing Application](screenshot.PNG)
 
 
